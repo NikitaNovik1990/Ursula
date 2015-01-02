@@ -1,0 +1,32 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.01.2015 14:37:51
+
+newmtl 13___Default
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Nikita\Google Drive 2\Hope_ Study After Tarkovsky\Models\Ursula\Head\UrsulaHead07.png
+	map_Kd C:\Users\Nikita\Google Drive 2\Hope_ Study After Tarkovsky\Models\Ursula\Head\UrsulaHead07.png
+	map_bump -bm 0.300000 Map__106_Normal_Bump.tga
+
+newmtl Material__97
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Nikita\Google Drive\Hope_ Study After Tarkovsky\Models\Ursula\Head\UrsulaEyeLashes.tif
+	map_Kd C:\Users\Nikita\Google Drive\Hope_ Study After Tarkovsky\Models\Ursula\Head\UrsulaEyeLashes.tif
+	map_d C:\Users\Nikita\Google Drive\Hope_ Study After Tarkovsky\Models\Ursula\Head\UrsulaEyeLashesAlpha.jpg
